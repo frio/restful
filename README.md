@@ -8,3 +8,6 @@ Essentially: a RESTful server should be a state machine, progressing an object f
 
 I haven't tackled that problem yet.  I've implemented something simple (designed to be used with Gorilla), but am only just starting to use it in anger in another app now.  Once I've got the basics together, I'll hopefully be able to solve the problem I'm having.
 
+## Status
+
+[![Build Status](https://travis-ci.org/frio/restful.png)](https://travis-ci.org/frio/restful)
