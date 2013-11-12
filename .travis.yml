@@ -1,0 +1,6 @@
+language: go
+go: 1.1
+
+script:
+ - go get launchpad.net/gocheck
+ - go test -v
